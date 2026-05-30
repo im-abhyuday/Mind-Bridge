@@ -12,7 +12,7 @@ Mind Bridge utilizes a smart **Role-Based Access Control (RBAC)** layout togglin
 To accommodate different needs, the system supports three tailored visual systems:
 1.  **☀️ Light Mode**: Soft lavenders, warm creams, and calms to prevent sensory strain.
 2.  **🌙 Dark Mode**: Soothing night tones to reduce evening restlessness.
-3.  **♿ High Contrast Mode**: High-visibility yellow-on-black color palettes with scaled, bold typography and thick boundaries designed for elderly and visually impaired accessibility.
+3.  **♿ High Contrast Mode**: High-visibility yellow-on-black color palettes with scaled, bold typography and thick boundaries designed for elderly and visually impaired has accessibility.
 
 ---
 
