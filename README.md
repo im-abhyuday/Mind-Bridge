@@ -5,7 +5,7 @@
 ---
 
 ## 🎨 Accessible Interface & Dual-Portal Experience
-Mind Bridge utilizes a smart **Role-Based Access Control (RBAC)** layout toggling between two dedicated views:
+Mind Bridge utilizes a smart **Role-Based Accesss Control (RBAC)** layout toggling between two dedicated views:
 *   **👶 Patient Portal**: A highly focused, distraction-free environment. Featuring a giant digital clock, orienting date & weather details, a one-touch emergency alarm trigger, cozy memory scrapbooks, and calming therapeutic games.
 *   **👩‍⚕️ Caregiver Portal**: A comprehensive clinical log and configuration suite. Includes a daily routine scheduler, canvas-based live geofence radar, behavioral diaries, and responsive weekly mood tracking charts.
 
